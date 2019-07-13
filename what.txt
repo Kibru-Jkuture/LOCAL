@@ -1,15 +1,1 @@
-uthor: kibrukuture <feledtsige@gmail.com>
-Date:   Wed Jul 10 14:07:42 2019 +0300
-
-    an index file
-PS C:\xampp\htdocs\test\git_one> git checkout -b master
-fatal: A branch named 'master' already exists.
-PS C:\xampp\htdocs\test\git_one> git branch -a
-  hello
-* master
-PS C:\xampp\htdocs\test\git_one> git checkout hello
-Switched to branch 'hello'
-PS C:\xampp\htdocs\test\git_one> git branch -a
-* hello
-  master
-PS C:\xampp\htdoc
+So ....
